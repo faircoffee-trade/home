@@ -3,14 +3,6 @@
 Project in a cooperation between ThreeFold and Solidaridad. 
 Dedicated to bringing fairness and transparency to the international coffee trade through the use of ThreeFolds Blockchain and internet capacity technology. 
 
-### Owner: 
-* [Adnan Fatayerji](https://github.com/AdnanFatayerji)
-
-### Team:
-* [TO BE UPDATED]
-* .
-* .
-
 ### Website:
 
 [faircoffee.trade](http://faircoffee.trade)
